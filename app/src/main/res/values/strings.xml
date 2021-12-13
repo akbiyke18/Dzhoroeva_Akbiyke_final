@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Dzhoroeva_Akbiyke_final</string>
+    <string name="button_2">Payment</string>
+    <string name="button_3">Select user</string>
+    <string name="total">Subtotal Delivery Total</string>
+    <string name="promo_code">Enter Promo Code</string>
+    <string name="agreement">Apply</string>
+    <string name="dish_1">Fried Rice Pista House User 1</string>
+    <string name="dish_2">Jollof Rice Suhani’s Stop User 2</string>
+    <string name="prices">225 ₹270 ₹45</string>
+    <string name="first_price">₹100</string>
+    <string name="second_price">₹150</string>
+    <string name="definition">Our fried rice is made from the finest ingredients and veggies. single dish is made with fresh vegetables, rescued.</string>
+    <string name="description">Description</string>
+    <string name="value">Nutritional Value</string>
+    <string name="components">Protein Carbohydrates Sodium Potassium Rich in Vitamin A, C and B3</string>
+    <string name="percents">2.5g 14.7g 19%* 5%*</string>
+</resources>
